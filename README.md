@@ -1,5 +1,7 @@
 # House-Price Predicting based on machine learning with the help of Python
 
+(For Security Purpose I didn't upload my entire Project )
+
 Technologies 
 
 That are used in the project is Django , Html , CSS , Python , Heroku
